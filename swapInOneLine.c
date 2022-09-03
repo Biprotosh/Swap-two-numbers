@@ -12,10 +12,11 @@ int main()
 }
 
 /*
-    a = 10 b = 20
+    Explanation how the logic works
+    First print this -> a = 10 b = 20
+    then,
     30 - 20
-
-    a = 20
     b = 10
+    a = 20
 
 */
